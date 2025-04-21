@@ -12,7 +12,7 @@ Module used:<br />
 - openpyxl, to process excel document<br />
 - report-lab, to create a list of filenames into a PDF file<br />
 - urlib.parse, to import "quote"
-- Need NotoSansTC font pack downloaded and put it into same file as your program
+- Need NotoSansTC font pack downloaded and put it into same file as your program (Provided below)
 
 
 ![Screenshot (949)](https://github.com/user-attachments/assets/4cf3a55e-9b96-4403-bf49-d91748e8f4b0)
