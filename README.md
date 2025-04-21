@@ -1,5 +1,5 @@
 # PDF_Word_Searcher
-A python based project to search for a specific word and return a list containing the name of PDF files where the word we search for is contained inside it, each filename in the list is hyperlinked with the exact path of the file itself. It can process documents, such as word(docx,doc), presentation(pptx), excel(xlsx), log, textfile (txt).<br />
+A python based project to search for a specific word and return a list containing the name of PDF files where the word we search for is contained inside it, each filename in the list is hyperlinked with the exact path of the file itself. It can process documents, such as word(docx,doc), presentation(pptx), excel(xlsx), log, textfile (txt).<br /><br />
 Module used:<br /> 
 - "tkinter"(GUI)<br />
 - "pymupdf(fitz)" for PDF file processing<br />
